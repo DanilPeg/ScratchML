@@ -1,0 +1,12 @@
+setup.py
+ScratchML/__init__.py
+ScratchML/base.py
+ScratchML.egg-info/PKG-INFO
+ScratchML.egg-info/SOURCES.txt
+ScratchML.egg-info/dependency_links.txt
+ScratchML.egg-info/requires.txt
+ScratchML.egg-info/top_level.txt
+ScratchML/linear/__init__.py
+ScratchML/linear/linear_regression.py
+ScratchML/utils/__init__.py
+ScratchML/utils/metrics.py
